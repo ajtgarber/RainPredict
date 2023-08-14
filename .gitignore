@@ -1,0 +1,6 @@
+clean_input.csv
+dirty_input.csv
+enriched_input.csv
+rain_model
+logs
+farm_predict.py
